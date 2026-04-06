@@ -21,6 +21,13 @@ O projeto esta configurado para rodar no Firefox. No Mac, ele precisa estar inst
 Avaliacao_QA/
 ├── evidencias/
 ├── src/
+│   ├── main/
+│   │   └── resources/
+│   │       └── features/
+│   │           ├── Carrinho.feature
+│   │           ├── Checkout.feature
+│   │           ├── Login.feature
+│   │           └── paginaInicial.feature
 │   └── test/
 │       └── java/
 │           ├── pagesObjects/
